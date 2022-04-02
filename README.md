@@ -43,10 +43,11 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+![x]Start/Stop Button Functionality: http://g.recordit.co/bwkYbfmmGA.gif
+![x]Clue Sequence plays properly: http://g.recordit.co/wLVM5MiEOo.gif
+![x]Strikes Feature and Game lost: http://g.recordit.co/V70Q0CU442.gif
+![x]Game Won: http://g.recordit.co/o5LFpsizIB.gif
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
